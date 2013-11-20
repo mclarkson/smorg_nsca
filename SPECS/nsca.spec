@@ -30,7 +30,7 @@ Summary: Nagios nsca for Nokia x86_64 Linux Servers
 # uncomment this for RedHat Enterprise Linux 3:
 #PreReq: util-linux, sh-utils, shadow-utils, sed, fileutils, mktemp
 # SuSE Linux Enterprise Server 8:
-PreReq: util-linux, sh-utils, shadow, sed, fileutils, mktemp 
+PreReq: util-linux, sh-utils, shadow-utils, sed, fileutils, mktemp 
 
 
 %description
